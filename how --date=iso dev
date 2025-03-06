@@ -1,0 +1,15 @@
+[33mcommit b398d5ba42bae8ab51e8e8a0bf4f0bfb4865421b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Reflog: HEAD@{0} (Madem Satish <madem.s@illuminei.com>)
+Reflog message: Branch: renamed refs/heads/master to refs/heads/main
+Author: Madem Satish <madem.s@illuminei.com>
+Date:   Tue Jan 28 12:02:00 2025 +0530
+
+    initial commit
+
+[33mcommit b398d5ba42bae8ab51e8e8a0bf4f0bfb4865421b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Reflog: HEAD@{2} (Madem Satish <madem.s@illuminei.com>)
+Reflog message: commit (initial): initial commit
+Author: Madem Satish <madem.s@illuminei.com>
+Date:   Tue Jan 28 12:02:00 2025 +0530
+
+    initial commit
